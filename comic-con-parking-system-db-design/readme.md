@@ -1,3 +1,5 @@
+#Comic-Con Parking System
+
 The system is designed to efficiently manage vehicle entry, parking allocation, reserved categories, sessions, and payments.
 
 ---
